@@ -1,0 +1,25 @@
+    Include Gooogle Home in builds until release
+Commit: f23fc7b0674bea83299d55de0f2ce222afb03465
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 15 22:47:03 2014 
+
+
+    Don't use prebuilt libjni for now
+Commit: e2f1ba9446da82e613b30548ad4a32ff83083b12
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 15 22:29:13 2014 
+
+
+    Additions, changes and mako fixes...
+Commit: d6ad2746e850cfecb06bfb3ce3eaaabc9e12bfb0
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 15 01:09:58 2014 
+
+
+    Initial commit
+Commit: 7c48c13936e78d8344365c82f6f09e64cbe033aa
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Jan 14 23:02:26 2014 
+
+
+

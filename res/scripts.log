@@ -1,0 +1,31 @@
+    Added rmorig script and updated README
+Commit: 697c829d939e3a78a772bbbdc730b2cde2992ae4
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 15 17:40:47 2014
+
+
+    Merge branch 'kitkat' of https://github.com/hiveos/buildscript into kitkat
+Commit: aed54a9856f1167f6b83e32ee15c80a339a94331
+Merge: 63293c5 080aa3e
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 15 01:11:48 2014
+
+
+    Replace bacon with otapackage
+Commit: 63293c5fe2cfce29f294b8192e3709c80e4c757d
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 15 01:11:02 2014
+
+
+    Create README.md
+Commit: 080aa3e6fa7f1b66040ddeed737da7d16186a043
+Author: İhsan Işık <x.ihsan@gmail.com>
+Date:   Wed Jan 15 01:03:09 2014
+
+
+    Initial commit
+Commit: b69487cc277952ec41b7fd709e7741a680115e33
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 15 01:00:48 2014
+
+

@@ -1,0 +1,31 @@
+    Remove some unnecessary packages from HIVE makefile
+Commit: 2adb4ca0dd179c4be5f33b705b0a70780d0e8fff
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 15 22:20:26 2014 
+
+
+    Added mka to vendorsetup
+Commit: b3803048dc38d5c7a205514b117f6c7cfbcba9c4
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 15 15:14:06 2014 
+
+
+    HIVE makefile
+Commit: 94ece876597611f525671f1b6b97c3e82b22f85c
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 15 15:12:04 2014 
+
+
+    Removing unnecessary packages...
+Commit: 61b150797fe9e9915a263541cc9d688e1990926b
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Dec 25 10:50:30 2013 
+
+
+    Disable localization enforcement
+Commit: c09a08febd6b4384b29614c953f7e125aa89f861
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Dec 25 10:05:11 2013 
+
+
+

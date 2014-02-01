@@ -1,0 +1,281 @@
+Commit: 77537d850b5ce0f62bd6dc8ef989916e9632f662
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Wed Jan 8 02:28:30 2014 +0100
+    Managed to upload drawing as you save it
+
+Commit: bd7873af81167cc284062e36828eafa17e372810
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Mon Jan 6 09:14:51 2014 +0100
+    Fixed crash when there is too many drawings on the shelf
+
+Commit: 537b4c47b3c1b976aa7c3c4cc57132ea14cfdaf4
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Fri Jan 3 02:51:09 2014 +0100
+    Adjusted sizes
+
+Commit: 2586b4fcaade3f424bf3ed0721e823e06d7f63d2
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 2 14:29:22 2014 +0100
+    Removing unnecessary lines from griditem layout
+
+Commit: 9c257dd08934a58b898feefa0df40683dbebea2c
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 2 14:25:43 2014 +0100
+    Application won't reload itself on initial start anymore
+
+Commit: 1db21f2934a85a8c034777a54ba24e49c3c20bd7
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 2 14:19:29 2014 +0100
+    Better grid items (?)
+
+Commit: 7d7d5cb8d60464be944c394b952ab23685f642af
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 2 13:08:49 2014 +0100
+    Better keyboard handling when saving
+
+Commit: 463c17bda3e0b2450c9bd430ef34ebfe7934305a
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 2 12:41:00 2014 +0100
+    Should fix transculent system bars issue on nexus 7
+
+Commit: 6810a52ae0e9e4b9a716c7118bf74faa7f0f9690
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 2 12:32:39 2014 +0100
+    Fixing reload issues and some layout ironing
+
+Commit: 01b80e1deeb64bdb11859469fc1c22a42c3fab52
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 2 12:04:34 2014 +0100
+    UI polishing
+
+Commit: 43708cd8a0501b8bd28e95515254ba2f671993d9
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 2 00:10:18 2014 +0100
+    Fixed a weird bug where the user would be looped between Browser and Main activities upon clicking back button
+
+Commit: b8e9e7251c5c6e5e818a2d6b7a36763b382429d7
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 2 00:07:28 2014 +0100
+    Implementing transculent system bars
+
+Commit: 440f43519aabf32343ff833820aff2ca86ad181d
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 23:50:44 2014 +0100
+    Contextual action bar: drawing deletion, some simple improvements
+
+Commit: 64c1f50f837364ada861fcf0a61e0b5b9c78e190
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 21:45:51 2014 +0100
+    Some simple cleanup
+
+Commit: 782348de83b8a6edb1c85c4c61f09f4032f263a7
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 21:40:04 2014 +0100
+    Getting rid of leftover debug code
+
+Commit: 30aeb284dde9dd993f3e1e548ff3e1be6ae1a4fa
+Merge: cefe4a1 ceeec8b
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 21:35:13 2014 +0100
+    Merge branch 'master' of https://bitbucket.org/hiveos/drawings
+
+Commit: ceeec8b57e620315b25a88ae666b69625b8f7625
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Thu Jan 2 09:34:21 2014 +0100
+    I think i fixed a buggit add --allgit add --all
+
+Commit: cefe4a15b7264bcc911fff83ac78c7c9653946a6
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 21:35:05 2014 +0100
+    Drawing names are now properly assigned to grid items
+
+Commit: 96100fb4c313890a9e91bc515412e5f91a037426
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 21:14:24 2014 +0100
+    Drawing names are read and assigned to MainActivity ActionBarCustomView
+
+Commit: 13cbe6f687a7575fa14654693ba3d878b973793c
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 20:58:30 2014 +0100
+    Checks for root folder and creates it in case it is missing
+
+Commit: f96a782084baf712906a832cb69a9ad5fca32361
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Thu Jan 2 08:29:01 2014 +0100
+    Figured out what was the bug about :P
+
+Commit: 7c28a61de043bcf942bc317f9dac4c4a94e46df7
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 20:17:27 2014 +0100
+    Started work on grid view
+
+Commit: bd0567f7914e9df971943dbfc31e1498451b346b
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 16:19:05 2014 +0100
+    Keyboard is hidden on any action bar item click
+
+Commit: a44717312c6b4628c647c694c42d555951268115
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Thu Jan 2 03:01:26 2014 +0100
+    Fixed brush size bug
+
+Commit: e1867db8e4f466087a15d76a3ae8e8810daf38c7
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 12:10:37 2014 +0100
+    Removed unnecessary .orig file which got there while merging...
+
+Commit: ef6a5abc032abe286b2fc4b379615a45d720e651
+Merge: b1b31a7 cc8d1c2
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 12:05:18 2014 +0100
+    Merged changes from Hambrle's commits
+
+Commit: b1b31a7b0611815076248a79ea19d06ec85fa4a8
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 11:59:53 2014 +0100
+    Improved eraser and brush item icons and behaviors: brush icon now glows when navigation drawer is opened
+
+Commit: 40aac1c1a8422b491968db80d7f0ec33d4795892
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 11:47:05 2014 +0100
+    Fixed a bug where the user could close navigation drawer without having the eraser enabled
+
+Commit: cc8d1c2b1aa46880d1f892f2ffe88ddd6222c21e
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Wed Jan 1 11:36:48 2014 +0100
+    Moved onCreate to onResume
+
+Commit: 07477120315f645a863f0556ba6f9ce8d194c88e
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Wed Jan 1 11:28:32 2014 +0100
+    Fixed bug and added overwriting files
+
+Commit: d8679fe7758ff4725e7997315905d2414e7b6efd
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 1 11:23:24 2014 +0100
+    Locked app orientation to portrait
+
+Commit: 07841b2fc3045790bcb49f7263cbaed2212772aa
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 22:56:14 2013 +0100
+    Eraser is now disabled when navigation drawer is called
+
+Commit: 8573f953f9a98bbd8ec65dc4898b19175b9db4ec
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 22:48:07 2013 +0100
+    Create .nomedia file at startup in order to hide exported drawings from gallery app
+
+Commit: 0a98b80aca4111dd98870aa9fb5a86f9f8c85183
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 22:42:51 2013 +0100
+    Changed default brush size to 3
+
+Commit: 5671d5a49eede0e75376c654eb488652ddebeb75
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 22:37:59 2013 +0100
+    Improvements to naming system
+
+Commit: 227f4b1ca8c9aba392025ff0b129741b47265a18
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 22:26:54 2013 +0100
+    Removed unnecessary size dialog code
+
+Commit: 224acbd29f6b0d3ebd163795bed318168c738c68
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 22:20:47 2013 +0100
+    Drawing naming now done over the action bar. No additional alert dialogs..
+
+Commit: 8a5c0a3e82432dc7f481cd7fe1a42fc24b0b4313
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 19:52:05 2013 +0100
+    Better eraser behavior
+
+Commit: 9956e0abef8c7a5a7d9e01be497d189142c1d6a7
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 19:17:54 2013 +0100
+    Design modifications, navigation drawer implementation for color picker and size slider, etc...
+
+Commit: a1aa420b5f166bde9e9a1f49d77052ac8fe73c02
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 15:47:09 2013 +0100
+    Oops! Seems like I forgot to change theme definition in manifest
+
+Commit: c9f99d7ccc62df1c9753a668dad90bcdf3bac20e
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 15:44:30 2013 +0100
+    Removed issue-causing colorpicker library jar file
+
+Commit: d1b58ab3a60e7288f33eec0dd7ee8eda0fd041d5
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 15:43:54 2013 +0100
+    Started work on design
+
+Commit: 6570773a5c8d843fd28ebfd1bf1817e12fcd6109
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 14:50:03 2013 +0100
+    Color Picker library fixations
+
+Commit: 9c5f83c50fd96c2546225b3c678d505e49317e1f
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 14:36:06 2013 +0100
+    Color Picker library is now in jar format
+
+Commit: b52e475b83263eac21afb192e17e3afc3a5d01e4
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 31 14:17:20 2013 +0100
+    Once again. Cleanups...
+
+Commit: 746129ebba8cfb53ac47b590b2a16a6ef75366bb
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sun Dec 29 03:17:11 2013 +0100
+    Added button for adding new drawing, and moved colorpicker button up to the actionbar
+
+Commit: 3b09c0d3eee4bf9d6c88274051c9ec41c5eaea52
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sun Dec 29 02:54:50 2013 +0100
+    Added browser for loading and manipulating with saved bitmaps
+
+Commit: a5d18b9c4ae7bd1493b6baffb1e249a08597f70b
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sun Dec 29 01:39:54 2013 +0100
+    Exiting dialog set cancelable
+
+Commit: 188f704a31670186868d2c67b710a0dcd535f832
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sun Dec 29 01:32:49 2013 +0100
+    Clearing canvas as the user clicks no upon exit
+
+Commit: 996921464df55175f6d0b1d909d6cdcdfb8ce5db
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sun Dec 29 00:15:07 2013 +0100
+    Size and eraser tools moved to action bar and changed dialog for size
+
+Commit: bfd4aefc279a908521e07b69b5eb2f1450f79456
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sat Dec 28 23:48:40 2013 +0100
+    Finished color picker
+
+Commit: 549e3244cf5e650876979fdbd8edd0a4a26acd19
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sat Dec 28 09:51:23 2013 +0100
+    Started work on color picker
+
+Commit: 76efb9b8771bd1c5243a8fe71fce88a622d791c1
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sat Dec 28 09:00:35 2013 +0100
+    Added clear feature
+
+Commit: bfd83109d2ec33df694651ca98d3a0b185076b72
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sat Dec 28 08:54:55 2013 +0100
+    Added dialog which asks if user wants to save the drawing
+
+Commit: 8f9eb4f430538eaf83436a1b5f685f3e637e1e2b
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sat Dec 28 08:33:38 2013 +0100
+    Added saving feature and eraser
+
+Commit: 67faaabb2e7df888911a0ad57f6ee74868a5bc1f
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sat Dec 28 04:15:39 2013 +0100
+    Initial commit

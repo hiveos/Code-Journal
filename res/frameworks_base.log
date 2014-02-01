@@ -1,0 +1,78 @@
+    Merge android-4.4.2_r1
+Commit: e53fc3383237c148af3202ae200caff479d0b86a
+Merge: feef988 ca96f33
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 15 22:35:43 2014 
+
+
+    Showing HIVE User Name in statusbar
+Commit: ca96f33091bf1217ed17e7a106443463ce6995cd
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Jan 6 23:45:21 2014 
+
+
+    StatusBar: Don't show popup menu on notification long click
+Commit: 5c5390cd3ce2a810f6feed7c0398391e6eb3e11e
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Jan 6 21:59:31 2014 
+
+
+    Recents: Remove 'App info' item from popup menu
+Commit: f1ad8b378ae3a060edd3984f23fdba2196c853d1
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Jan 6 21:48:49 2014 
+
+
+    Recents: Show wallpaper even if it is a live wallpaper
+Commit: fe4d0d24f7425749da7f9337e8b7ab014b8cf286
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Jan 6 21:33:22 2014 
+
+
+    Disable launch DeskClock on date/time click
+Commit: afd00cbd6e691f61561064dd0a7fcb71ffa5dc0a
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Jan 6 21:23:37 2014 
+
+
+    Getting rid of airplane mode, wifi, bluetooth, rssi, rotation lock, alarm, wifi-display and ime tiles
+Commit: c81d7f7bc1babce255a19465fe6b236e73831990
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Jan 6 19:08:22 2014 
+
+
+    QuickSettings: User Tile updates every time user switches to Quick Settings
+Commit: ed9f772741a627d04ef160e894862ab73f9854d2
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Jan 6 17:54:30 2014 
+
+
+    QuickSettings: Auto-collapse Quick Settings on Settings Tile click
+Commit: ac262a630c48a18d8f9269c47f881f4144d5e0c0
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Jan 6 14:10:53 2014 
+
+
+    StatusBar: Date/Time send the user to DeskClock
+Commit: 085383e83f94b91fe1359ba316f5f3ba68db529e
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Jan 6 13:53:44 2014 
+
+
+    QuickSettings: Settings tile launches HIVE settings app
+Commit: e0a45db8555f4c455b666bc667de86214fbcdcbc
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Jan 6 13:51:24 2014 
+
+
+    QuickSettings: User tile obtains user info from HIVE and fires up custom dialog
+Commit: f435975ef98f4a2c7f368e106d4e49aa83a99369
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Jan 6 13:49:57 2014 
+
+
+    Suppress String resource warnings
+Commit: 491266472856e46345b767878f3c1b589807da41
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Dec 25 09:28:27 2013 
+

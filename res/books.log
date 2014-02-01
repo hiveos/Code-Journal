@@ -1,0 +1,219 @@
+Commit: e2accdd876bbe5c6ac15dfcac7d80fce1df00c80
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Mon Jan 20 19:13:31 2014 -0800
+    Better actionbar icons for immersive mode
+
+Commit: 1c02e9a1f525d537130e1efb7b450bae82f97cd6
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Tue Jan 7 01:14:00 2014 +0100
+    Loading pages in numerical order (10.jpg is not before 2.jpg anymore)
+
+Commit: 4955725a38dccac17ac80c75e252a4f416bc6dd1
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Mon Jan 6 09:48:09 2014 +0100
+    Turning pages as you click on page edge
+
+Commit: b535eb3221df581d72e47ed97d5b506da08b10fd
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Mon Jan 6 08:42:05 2014 +0100
+    Adjusted some scales
+
+Commit: 8dea133da6a018cd57400925d556c0856cf724f0
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Mon Jan 6 08:34:21 2014 +0100
+    Commit
+
+Commit: cb838203d12b1fc8a62ac3c8e8bf5eb266af3dc4
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Mon Jan 6 08:08:51 2014 +0100
+    Initial commit
+
+Commit: 00a4f1d04f5a20d777d539c4c828f7be740dba54
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Jan 4 10:24:36 2014 +0100
+    Changing next and previous item icons depending on edit state
+
+Commit: ceb43e7ab4f693b7e46094e0b6df76bbb0bb15fe
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Jan 4 10:20:17 2014 +0100
+    Changing fullscreen item title depending on immersive mode toggling
+
+Commit: 382aed48ac4bcde5386ad70a204a6402ddce9cca
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Jan 4 10:17:49 2014 +0100
+    Action bar icons and immersive mode on item click
+
+Commit: a40389402da163872cb997b1da705a851398586a
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Jan 4 09:34:02 2014 +0100
+    Simple code cleanup
+
+Commit: c35c7ab019ab9573eecd7cd88053a7091e0f9094
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sat Jan 4 11:45:59 2014 +0100
+    Some changes
+
+Commit: 02ac0ecf8d168498f26c4cc06c90278142a9702f
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Jan 3 19:51:32 2014 +0100
+    Remove unnecessary immersive mode code (2/2)
+
+Commit: 081f94c13ecc4fc2b9c90e5b689b93b6659961ed
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Jan 3 19:50:10 2014 +0100
+    Remove unnecessary immersive mode code (1/2)
+
+Commit: 5ea4f44edef5fe3b4df6d558d5fdb784417217c3
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Jan 3 19:48:13 2014 +0100
+    Enabled Navigation Up button in Book View
+
+Commit: afe59bd50a362872905d3d7ecef62eb2dcbbf52b
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Jan 3 19:44:29 2014 +0100
+    Shelf: Book item positions should now be all fine
+
+Commit: d86a0d3d776761f552ce3a0b863ccb4ffef6d2f0
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Jan 3 19:40:35 2014 +0100
+    Book items now display shadows
+
+Commit: 0f3d0643e7cbb716452b5242d0ce9df2c57d2bc0
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Jan 3 18:46:02 2014 +0100
+    Locing app orientation portrait
+
+Commit: e9cdd26a97fe351db78d222f0b3cc4597101b13f
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Jan 3 18:44:42 2014 +0100
+    Shelf: Fixed books size and margin issues
+
+Commit: be09765b4eb0dff4e71b10e1afe52df06eb88314
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Jan 3 18:34:34 2014 +0100
+    Fixed canvas draw issue while trying to bring up system bars
+
+Commit: 0971a5d3574f37cddf95e9aba28560ca1f425275
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Jan 3 18:31:22 2014 +0100
+    Got rid of unnecessary gridview layout and griditem layout
+
+Commit: 2c4780fbdf790ac5c5c9a35487556f1270c24558
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Jan 3 18:29:48 2014 +0100
+    Shelf: Fixed logo background color being black after switch from wooden shelves
+
+Commit: 65ecf98678c2246f9217716b13f9f3fb8669a5c8
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Jan 3 17:51:18 2014 +0100
+    Immersive: Fix action bar never coming back
+
+Commit: 41dc61f1b2a91f77580bb949691ff4fd0bdcb6ec
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Jan 3 15:41:32 2014 +0100
+    UI redesign, immersive mode (half-done), some small adjustments and fixations...
+
+Commit: 4dc525176832ec3eab29bda67d74bbc3d38d7ddf
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 2 14:58:50 2014 +0100
+    Getting rid of slash screen
+
+Commit: 736d8bdb5890f56c43d598e33b5f16c614487799
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Thu Jan 2 04:04:47 2014 +0100
+    Again updated editing
+
+Commit: d5c38096dcb280269a01168aa0bcabd656271a0e
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Wed Jan 1 03:38:54 2014 +0100
+    Update on editing
+
+Commit: b688c010bf340554aa4616fc67c463816f11e9d2
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Wed Jan 1 03:23:01 2014 +0100
+    Page editing updated
+
+Commit: 6b02695d688b20c9c62a9ddeadda9fc52dab5357
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Wed Jan 1 02:22:12 2014 +0100
+    Started work on editing book pages
+
+Commit: ecfdbb222f833b3e77036de17473e12af1e7f56b
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Tue Dec 31 06:12:59 2013 +0100
+    Loading first page as a cover
+
+Commit: 269462cc3a80aa70497a5cb9bcc63f71a3251aff
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Mon Dec 30 07:57:11 2013 +0100
+    Fixed crash upon opening a book more than one time
+
+Commit: c0189c320ecca4b17f25efa5921d85b5ef47b7b4
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Mon Dec 30 07:26:36 2013 +0100
+    Added swipe feature
+
+Commit: 50bb407ea694b109dcd6886afe66d29453ef4ee5
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Mon Dec 30 07:18:20 2013 +0100
+    Added nice page scroller
+
+Commit: 6337bfcf12b2b77dcc98b88ec41cb2ab9c4f5360
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Nov 27 22:46:07 2013 +0100
+    Android.mk for including in aosp build
+
+Commit: 1b5551b2286207db5b8110267b33ea2207cb129b
+Author: xiprox <x.ihsan@gmail.com>
+Date:   Wed Oct 23 15:25:53 2013 +0000
+    Removed .jar filter from gitignore
+
+Commit: 1b8aefcc2e9b82be44b52d868f71da5e57aad330
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Oct 23 17:09:06 2013 +0200
+    Added missing library
+
+Commit: 6be076f3ce6f127927cce563da7555823049f2ad
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sun Oct 20 18:41:39 2013 +0200
+    Implemented Android PDF Viewer Library, but it seems that it is too slow to open bigger pdf files
+
+Commit: cd0b224cda0cb912187c96cc1c889c72f5f59af7
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Mon Oct 14 18:49:55 2013 +0200
+    Started working on our pdf reader
+
+Commit: c4cfef51bbe42889d6d3deaf83c5bf40c209f153
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sat Oct 12 22:33:57 2013 +0200
+    Some margin changes
+
+Commit: fbbbeb8fe4d95a551c625617e6c8e168d13fa23a
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sat Oct 12 17:47:29 2013 +0200
+    Book margins set
+
+Commit: 04b57ca419fecc5c7d2d67c819e9c13bc12473db
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sat Oct 12 15:45:44 2013 +0200
+    Removed unnecessary cover JPG file
+
+Commit: c680e13f513650cb0c9bef8977382e8c7bf2ff9a
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sat Oct 12 15:44:04 2013 +0200
+    Finished adding books on shelf and taking PNG picture from SD card as a book cover, and some other changes
+
+Commit: 08a24ae2212feb2fe0d7d79208170e35fc5d3ae8
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Fri Oct 11 23:06:47 2013 +0200
+    Changed ListView background, although this might not be the final one
+
+Commit: 43393c913610fbaff2f01b674881f09c10d00ceb
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Fri Oct 11 21:19:59 2013 +0200
+    Removed 'HIVE' from the name of the application.
+
+Commit: 266b018e1a314d08324ffdb43d3ffc4aead9e0da
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Fri Oct 11 20:57:54 2013 +0200
+    Fixed Activity declaration

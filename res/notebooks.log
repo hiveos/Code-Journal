@@ -1,0 +1,706 @@
+Commit: 2b66f88fb0f5401faf79a759b3966422ff456a2d
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Wed Jan 22 16:56:01 2014 -0800
+    Fix page number which was accidentally forgotten after testing
+
+Commit: 4405fa048263cbe5b27ab38a18715ce02871a3a6
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Wed Jan 22 16:28:48 2014 -0800
+    New guides drawable
+
+Commit: e20e007094d8818cfa9a02ece4ada8c90ccd105f
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Wed Jan 22 16:16:17 2014 -0800
+    Localize all the remaining strings
+
+Commit: a026c72d75200ca3c2e7574517f74c937d7dcd5b
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Wed Jan 22 16:09:18 2014 -0800
+    Better notebook name hint :D
+
+Commit: c62083d71d3cfdba67caed903fae10fcfbbadd5d
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Wed Jan 22 16:08:25 2014 -0800
+    Prevent creation of notebooks with name longer than 40 chars
+
+Commit: 56d25fd4e9c53ca34a3436d8563dc5b5bae6b292
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Wed Jan 22 14:31:20 2014 -0800
+    Action Bar: Remove app icon and change title text color, size and font
+
+Commit: 734b32153c4339b0e11e10c3171a6c766e7679cf
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Wed Jan 22 12:13:02 2014 -0800
+    Bottom bar adjustments
+
+Commit: ce15944ad1172073dda2ed5019592a632ce99292
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Tue Jan 21 14:58:36 2014 -0800
+    Fix delete button deleting whole directory
+
+Commit: 5dd3f96128ca2ce492c7a211c0f471b6f34c0879
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Tue Jan 21 14:12:29 2014 -0800
+    Move clear button to bottom bar
+
+Commit: c5c65f43f8cd54a465989aca1711d844d766daac
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Tue Jan 21 14:08:21 2014 -0800
+    Get rid of functionless switch item
+
+Commit: 648b53376529ae08f84d68614fde3e3adee01626
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Tue Jan 21 14:06:11 2014 -0800
+    Implement navigation drawer for brush color and size (2/2)
+
+Commit: 10b10cf08b6630a481e4862678ce75d1b1660eef
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Tue Jan 21 14:01:06 2014 -0800
+    Implement navigation drawer for brush color and size (1/2)
+
+Commit: 953a0cad9b5f2da6959d2659cd61f1db88710acb
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Mon Jan 20 19:05:13 2014 -0800
+    Temporary guides toggle icon
+
+Commit: caecd81d7f367b2803b972e22cd3cc7199cd2504
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Mon Jan 20 18:51:10 2014 -0800
+    Make insert button easier to use, remove unnecessary drawables and new bottom bar backspace drawable
+
+Commit: 7f19f01223ef3474fa0bb192fd5b795fde4a4329
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Mon Jan 20 17:47:46 2014 -0800
+    Page number indicator design and bottom bar adjustments
+
+Commit: 194e9d69ff3928e716af6a1340ff30d70d15b939
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Mon Jan 20 17:40:33 2014 -0800
+    Fix writing guideline position
+
+Commit: fdfdf262bebf3bd9c17696090f4a5e43158e271a
+Merge: e55c63a c433593
+Author: Ihsan <x.ihsan@gmail.com>
+Date:   Mon Jan 20 17:32:37 2014 -0800
+    Merge branch 'master' of https://bitbucket.org/hiveos/notebooks
+
+Commit: c433593e4deb3a1291c93cb4b4e041e1a0aa2f53
+Author: Ihsan Isik <Hikari@Metins-MacBook-Pro.local>
+Date:   Sat Jan 11 23:22:32 2014 +0100
+    Got rid of orig file, UI mods...
+
+Commit: 5ccb8b35a8c2829557a96afef512abf4cc318f61
+Merge: a941f70 a996396
+Author: Ihsan Isik <Hikari@Metins-MacBook-Pro.local>
+Date:   Sat Jan 11 20:02:02 2014 +0100
+    Merged textures branch into master
+
+Commit: a941f70d5a212d8a2d938ed8c53a9d7b260c3b83
+Author: Ihsan Isik <Hikari@Metins-MacBook-Pro.local>
+Date:   Sat Jan 11 19:08:42 2014 +0100
+    UI improvements (1/2)
+
+Commit: a99639655556a268e26ff0be679d77a0d3184ce2
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Tue Jan 7 10:56:21 2014 +0100
+    Implemented toggle guidelines feature, and added icons for next and previous page
+
+Commit: 45dea273a173c319a3e65ec028db3de01898f1dd
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Tue Jan 7 08:59:33 2014 +0100
+    Adjusted lines textures and started adjusting grid ones
+
+Commit: e55c63af744eb2b95cce1f086ab572c5c03c26a6
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Jan 4 17:15:42 2014 +0100
+    Notebook cover layout change and some ui adjustments (May require margin and padding adjustements for nexus 7)
+
+Commit: 19a1d7c5ac060273858aa1667276a7f5ffd5bbd6
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sat Jan 4 02:38:29 2014 +0100
+    Paging
+
+Commit: 11ced7111e5147da9a4b92e8f28f462cba9d1d70
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sat Jan 4 01:56:29 2014 +0100
+    Finished paging system, fixed bug
+
+Commit: 5589a6ef3cb94ed552c7d8158877a8b13473505b
+Merge: 121a2a1 19a1d7c
+Author: xiprox <x.ihsan@gmail.com>
+Date:   Fri Jan 3 14:42:51 2014 +0100
+    Merged in paging2 (pull request #4)
+    
+    Request
+
+Commit: 121a2a1130b1d48c0e9e403135dcd787290a289a
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Dec 27 13:25:14 2013 +0100
+    Long planned action bar bg modification and glavna.xml system bar bg linear layout height fix..
+
+Commit: ef3b469b663aa12ef8c2302638309fc9cc3471a3
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sun Dec 22 07:58:26 2013 +0100
+    Added page numbers
+
+Commit: 1e529a66592c3008fa67b515582a9171e7362e60
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sun Dec 22 07:50:31 2013 +0100
+    Loading updated. No more crashes while switching pages. But still not fully working.
+
+Commit: f8fda4c870a1eee0ba3abcf2a7f87c2138fa058a
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Dec 21 15:58:06 2013 +0100
+    Added option to clean notebook content
+
+Commit: 73297b77bacd1ea53d81a684882f05cc35a5aacf
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Dec 21 13:44:16 2013 +0100
+    Fixed crash upon notebook deletion
+
+Commit: d2305fa4adbd84695251c1d831f85997f658e3d2
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Dec 21 13:26:15 2013 +0100
+    Automatic creation of page folders
+
+Commit: 34c1afa68ed63fb9e4b1d6378da3d3ce906726e6
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sun Dec 22 01:08:01 2013 +0100
+    Started work on page system
+
+Commit: d2fcf3717aec3151323e1568f3b5c115bd8f23db
+Author: Ihsan Isik <Hikari@Metins-MacBook-Pro.local>
+Date:   Fri Dec 20 23:51:56 2013 +0100
+    Implemented backup, restore, delete all notebooks and delete backups functionalities
+
+Commit: 817ad5ea1a9eec7949a63a9bf45b07f24e0db39a
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sat Dec 21 08:03:12 2013 +0100
+    Fixed some bugs related to loading system
+
+Commit: 49038fde1b807eaa2e672e34f20062110148c0f7
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sat Dec 21 07:31:25 2013 +0100
+    An important loading update
+
+Commit: f172f59498971b10a58b6a15e43ba2322aea0fa6
+Merge: c1c41ee 93fc536
+Author: xiprox <x.ihsan@gmail.com>
+Date:   Fri Dec 20 18:41:46 2013 +0100
+    Merged in redesign (pull request #2)
+    
+    Merging new design and fixations
+
+Commit: 93fc5365d3ca04e212dfde3a9a65d5c98521f287
+Author: Ihsan Isik <Hikari@Metins-MacBook-Pro.local>
+Date:   Fri Dec 20 15:45:12 2013 +0100
+    Fixed wrong notebook color being loaded
+
+Commit: 19c47f639c15460550402ee9462504d7fc451ed8
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Dec 19 00:31:30 2013 +0100
+    Making use of transculent system bar capabilities that came with kitkat
+
+Commit: 53aadb667f849961691fcb8cde301a3a80d31290
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Dec 18 20:47:08 2013 +0100
+    Notebooks now display different drawables in different states, contextual action bar, font optimizations, action bar foreground color is now white and a few typo fixes...
+
+Commit: faa3487fd16a7994f77a840bbc4c5f4f49ca5fa0
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Dec 18 15:59:48 2013 +0100
+    Modifications to addnotebook layout. Fixes issues with view no being centered on larger screens (?)
+
+Commit: 55831f6e87a3ff7295863da71632796ba6a1ba15
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 17 22:45:21 2013 +0100
+    Fixing color change of previously existent notebooks upon new notebook addition. (?)
+
+Commit: a28c69eadead0ce9690c3cb4d13b822f7e12095d
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 17 22:38:10 2013 +0100
+    Fixed notebook mispacements and wrong text postitions on larger screens
+
+Commit: 65d3fa2afa648b6d78c14d49da09ac07e102e682
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Dec 17 17:24:20 2013 +0100
+    Fixing shelf sizes on larger screens
+
+Commit: f4a0c7a6fe73b2ddd281f3212902213de10af20d
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Dec 16 21:01:45 2013 +0100
+    Implementing contexual menu on notebook longpress
+
+Commit: a169c8dc864ba2697299aab793c6a7bd163d4b24
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Dec 16 19:43:30 2013 +0100
+    Completed settings based shelf style
+
+Commit: d6e692dabc170b216ec59a00d7223f3bb841dc5a
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Dec 16 17:18:55 2013 +0100
+    Added forgotten halves of if statements...
+
+Commit: 0d63eca9a66c34c3d51f60f32ccba35c2069abb1
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Dec 16 17:01:09 2013 +0100
+    Showing notebook shadow if no shelves option is selected
+
+Commit: 5ea71bc484f02f146617d108b7b61dcb9ad37938
+Merge: 43e7f91 3a851d0
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Dec 14 19:47:39 2013 +0100
+    Making shelves dependent on settings (2/2)
+
+Commit: 3a851d01bea53b761b17550a679fac740211ba2f
+Merge: cf00c66 3c6e6fd
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sun Dec 15 01:53:48 2013 +0100
+    Shelves and new notebook icons
+
+Commit: cf00c66f55d331c699e4a6fcfb1d318fde5c9c41
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sun Dec 15 01:44:53 2013 +0100
+    Changed notebooks and added nice shelves
+
+Commit: 43e7f91372d07640968568a376dcfa8185983525
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Dec 14 19:22:53 2013 +0100
+    Making shelves dependent on settings (1/2)
+
+Commit: 3c6e6fd97485aece5a7f5ba0c2423d22d793e6ab
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Dec 14 13:31:46 2013 +0100
+    New notebook drawables
+
+Commit: a33dda6167cd867759db31494473506e13516d57
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Dec 14 12:48:41 2013 +0100
+    Fixing R.java issues by removing forgotten xml...
+
+Commit: 89d5f2efd0f60fbce99e15152084900578f73b28
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Dec 13 23:33:05 2013 +0100
+    Updated gitignore to exclude 'out' folder which contains exported apk files.
+
+Commit: e82107a71069d473fcac4ade352efd88a2d6712b
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Dec 13 23:21:54 2013 +0100
+    Removed drawables which are no longer needed due to design change.
+
+Commit: 2af722e0bbd009a15698906e958ad1160027ea5c
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Dec 13 23:19:00 2013 +0100
+    Horizontally centered views
+
+Commit: 026504572c7d35d12cef51e21569d0f221b8ff59
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Dec 13 23:18:24 2013 +0100
+    Changed qucik toolbar background to dark green until better solution is found...
+
+Commit: 43b5bbba5f58792130c392f273f215b62f9ce5f3
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Dec 13 23:15:48 2013 +0100
+    Removed unnecessary color picker remnant strings, changed Notebook Name hint to Japanese :D
+
+Commit: 9812bbcae772ee072e3f1a7a801442a198d5ed9b
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Dec 13 23:12:28 2013 +0100
+    Increased notebook height
+
+Commit: cae4508f3e27c6f121bd97dbc3f4d53d9e2da486
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Dec 13 21:56:28 2013 +0100
+    Completely redesigned UI, removed splash and some minor changes...
+
+Commit: c1c41eef2a7667d1c7d9551c9f97c775e22bbd08
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Nov 27 22:44:43 2013 +0100
+    Android.mk for including in aosp build
+
+Commit: ab353ef31d81fb18c316130a8269b592ebae9a6c
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Oct 23 17:12:11 2013 
+    Changed showAsAction values of all items to 'always'
+
+Commit: e20256ba61500d44f2785ddec984aca5716dd279
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Oct 23 17:11:20 2013 
+    Commented out SplitActionBar declaration from manifest
+
+Commit: 596eab2290e846cada016655f37f1e8202057512
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Oct 22 16:57:34 2013 
+    Removed unnecessary textbox drawable
+
+Commit: 5a72b7657fdefc1f7577450e483ffcbcd0ff7c4b
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Oct 22 16:56:29 2013 
+    Changed cursor color to better fit general app UI
+
+Commit: 5e281f9990c4fd3c3ee21d3c077776074b1974db
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Oct 22 16:54:30 2013 
+    Added two forgotten cover drawables
+
+Commit: 523dd9617dc4871a65841fe0a337e25d595782cb
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Oct 22 16:43:46 2013 
+    Improved grid texture
+
+Commit: 3883a5ee187e44b0335ded1f52466a6a6a7fbe4e
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Fri Oct 18 16:32:35 2013 
+    Modified saving system
+
+Commit: 55ed5e013427cf2cf344183ba464a2053f317398
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Oct 15 16:43:01 2013 
+    Fixed notebook margins, now they work fine
+
+Commit: 7ff7e1c413e742264fd223a3bd90d8f164c956e9
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Oct 15 13:43:40 2013 
+    Added exporting bitmaps to sd card
+
+Commit: 62adcc0308e485207ad6aa894306c8a014e4cbe5
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Oct 15 12:44:02 2013 
+    Working notebook textures (Grid, Lines and Plain), also added actual notebook name in action bar
+
+Commit: 2adb6dfd41962d02312a5622e356df3a11db8faa
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Oct 15 12:02:39 2013 
+    Working notebook colors and XML parsing
+
+Commit: a36ce8e1e396bfbdea440896b3f623282e93425b
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sat Oct 12 15:24:21 2013 
+    Added cursor for better UX
+
+Commit: e6a4af55222bfff2a99817172b26111d02555b93
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Oct 5 18:40:08 2013 
+    Put back forgotten notebook drawable
+
+Commit: 7281fdf5d976a171b6e3076f8523214467f49045
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Oct 5 18:35:45 2013 
+    Fixations...
+
+Commit: 33d0730c33488fae299a39d7333d81cfbe0b59c2
+Merge: 28f9412 bb72129
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Oct 5 17:58:46 2013 
+    Another commit
+
+Commit: 28f94122474d9683cc61f733a492aa5997e9052f
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sat Oct 5 17:46:55 2013 
+    Cover drawables for shelf notebooks changed, notebook name EditText background is back, no real-time cover color update when adding a new notebook...
+
+Commit: c798b17007eb8183d5d37c0948b1c54c3073236f
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Oct 4 17:17:25 2013 
+    Brought back notebook cover drawable
+
+Commit: c4653a62c7b8de5c9ca5ddd0e71bf98bd3f8c9b3
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Oct 4 17:04:07 2013 
+    ActionBar Up button finally works, more work on notebook cover colors
+
+Commit: bb7212959dc0adf8462a5f119726f972d77ca90e
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sat Sep 28 17:28:53 2013 
+    Writing notebook xml file to sd card with name details
+
+Commit: 41785a5537ba3775a30ef918cf35a784d37ed6fa
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sat Sep 28 15:25:20 2013 
+    Finished deleting notebooks
+
+Commit: 8d30ed40b73c0893a08c83b7aa785e7b8c263d79
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sat Sep 28 12:40:35 2013 
+    Started work on deleting notebooks
+
+Commit: 3944f6bc93400ce5fd1ef7365e53eb39404bd537
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Fri Sep 27 19:07:39 2013 
+    Toast working, notebook names working, initial shelves and adding fully working, also loading notebooks from shelves working
+
+Commit: d81aa3b9366f4e84482f6fd28c4f2a23c00e2769
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Sep 24 19:44:50 2013 
+    Added action bar, enter, space and undo icons... (Enter, space and udo buttons will be improved later)
+
+Commit: c0508e835efe1dd0ea33b77a85fd309c1754b948
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Sep 24 19:15:01 2013 
+    Changed Notebook drawables, made some small changed to the code...
+
+Commit: de2c6ae9c9b1febbc3159c23029616c6ccdcd267
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sun Sep 22 15:55:42 2013 
+    90% finished shelfing system with no more crashes
+
+Commit: 806904019b47234a06b60fb56f5aeaa64bd85f57
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sat Sep 21 11:09:48 2013 
+    Added splash screen
+
+Commit: 84eacea3fe4a1031d6bad39e52af2540e82f7c8e
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Fri Sep 20 22:05:58 2013 
+    Made some basic changes, changed pen colours, removed some items from actionbar menu and changed default notebook colour to orange
+
+Commit: 8140381befa165f4aec5cd25954ba6a695a43edc
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Sep 20 19:11:07 2013 
+    Fixed shelf issues, Guides should be better now, a lot of new drawables (decided to have separate cover images at the cost of file size), wrote some code to see change in cover color in real-time, etc..
+
+Commit: 64a6d6b5f564a28cc671f75eca5df352f37f3bb3
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Fri Sep 20 00:16:34 2013 
+    New cover drawables (will be updated again soon), currently static writing guides and some drawable removal...
+
+Commit: 8c4c342c712d48e3aa0b1c5e6569c99565b9fc75
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Sep 19 18:50:01 2013 
+    Removed eveerything related to ambilwarna, added 20 static shelves and a sample notebook to open notebook view, put temporary low quality cover picture in add notebook activity and fixed setAdapter code for addnotebook snippers.
+
+Commit: 98cb85ba2214e6a9a4a25e8ff02b188103be410e
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Sep 16 16:16:56 2013 
+    Just what was this? And how did it get there? Anyhow, the unwanted is removed..
+
+Commit: bded285e55c9cb70dc9e8db1c65fb81ea57c26fc
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Sep 16 16:11:12 2013 
+    Added a hell of new drawables (tried to merge a ColorPicker library project instead of using it as an external library) and changed the design of new notebook activity...
+
+Commit: e593412e8f4b574eed7f90e90549586f6c4d9f95
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sat Sep 14 12:27:14 2013 
+    writing mode finished
+
+Commit: 72059e5985520b3460f035d7f2fe015333757430
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Sep 11 19:10:40 2013 
+    Started work on shelfing system. CURRENTLY NOT WORKINGgit add --all
+
+Commit: 11be541df386840d913613f6b6d42e9d7eb6edf4
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Sep 11 16:53:13 2013 
+    Added TextView to show notebook name on cover in real-time in AddNotebook activity
+
+Commit: 777bea42ce636aa3c1af1cee2b7ca66f299eef18
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Sun Sep 8 11:38:06 2013 
+    writing mode updated
+
+Commit: e227ab7779320e54c98dde6b973bcd9a47314d91
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Thu Aug 29 16:39:32 2013 
+    writing mode work in progress
+
+Commit: 51d3653dadd8f1ca76930ecb09386d3e94f5a31a
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Aug 26 14:15:16 2013 
+    Added background and action bar textures, altered notebook adding
+    activity design, changed some action bar icons, removed notebook
+    editText background (the blue bar at the bottom), new resources...
+
+Commit: 2e76669017378646a2fe3151e86d4a8d240efdf1
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Mon Aug 26 14:04:30 2013 
+    Added background and action bar textures, altered notebook adding
+    activity design, changed some action bar icons, removed notebook
+    editText background (the blue bar at the bottom), new resources...
+
+Commit: f0df13c9097105ddd58c66d125bf100468f4572c
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sun Aug 25 18:24:08 2013 
+    Created new activities for Shelf and new notebook, changed package name,
+    half implemented action bar up button, made Shelf main activity, and
+    some other small changes
+
+Commit: f4e2532410ecd0961ab3366ac43189d0da28301f
+Merge: 1670ff7 e2c4324
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sun Aug 25 16:21:25 2013 
+    Merge branch 'master' of https://bitbucket.org/xiprox/hive-notebooks
+
+Commit: 1670ff77c2b51668eff865c6a771d3ce7fcdc672
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sun Aug 25 16:20:51 2013 
+    Added empty shelf layout for sake of testing
+
+Commit: e2c4324ecf1b5119779f7f3932458af09015faa2
+Merge: ba9ff29 a906817
+Author: xiprox <x.ihsan@gmail.com>
+Date:   Sun Aug 25 16:19:08 2013 
+    Merged hiveos/hive-notebooks into master
+
+Commit: a906817825bdc80bc3318f0607cca741149ec791
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sun Aug 25 16:07:17 2013 
+    Fixes...
+
+Commit: a616bb7b2faf96e86d469d2ab6ac4297f523be91
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sun Aug 25 15:41:23 2013 
+    Fixing some screw ups
+
+Commit: 10b0141228c7956154d2da3f328254742a5a1ce5
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Sun Aug 25 15:18:32 2013 
+    All the changes made by Dzanan
+
+Commit: ba9ff29a6c730159019047e797853fdefcc14dd0
+Author: xip <xiprox@xiprox-desktop.(none)>
+Date:   Wed Aug 21 19:24:31 2013 
+    Some more cleaning
+
+Commit: febee71854b5d41ce9c74c07b873ab932809f2ea
+Author: xip <xiprox@xiprox-desktop.(none)>
+Date:   Wed Aug 21 19:22:24 2013 
+    Changes on .gitignore and repo cleanings
+
+Commit: 1ae55083a67f9f9867379688a25ec2e434c1567d
+Author: xip <xiprox@xiprox-desktop.(none)>
+Date:   Wed Aug 21 19:06:44 2013 
+    Removed old, forgotten texture.jpg that caused R.java errors and organized imports in DialogAdapter.java
+
+Commit: a6cd8d4ee451f03b9c7f4b6d0c764bf280d0ed37
+Merge: 5b33567 fa3d18b
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Aug 21 00:07:51 2013 
+    Merge branch 'master' of https://bitbucket.org/hiveos/hive-notebooks
+
+Commit: 5b3356755d4897c2b7ff596fd5739d0f5e5d3399
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Aug 21 00:07:00 2013 
+    Changed Texture
+
+Commit: fa3d18b83219bf337014170ec981cb475b5daa4b
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Aug 20 23:24:02 2013 
+    Finished custom launcher and actonbar icon
+
+Commit: ae9156847230a953953c6906892aa65da9cf248b
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 23:03:52 2013 
+    Addded custom actionbar icon, tabun.
+
+Commit: 45d386e0a042f3d9b4acf16d3524fadeac7237dc
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Aug 20 22:55:12 2013 
+    Updated texture
+
+Commit: e8a44cf6857fb5b16ccf38f7cebc592c0aa59cac
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 22:06:56 2013 
+    Added Texture
+
+Commit: df67f7e4e56d356fb0c2298f7ff2d45fbb51679c
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 22:01:17 2013 
+    Cleaned up repo
+
+Commit: 653ce9e36b37fb53fc028a4e28ac8a69d4f27199
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 21:59:38 2013 
+    Modified gitignore
+
+Commit: b1a08fe390d7957eaa84c048fecab739941a5eef
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Aug 20 21:56:23 2013 
+    Changed ActionBar Buttons, added Title and fixed unfinished drawable value
+
+Commit: 5679b3e57e9a0a358cc876da0e085d6d57eb9101
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Aug 20 19:08:08 2013 
+    Moved clear, insert and brush buttons to the ActionBar
+
+Commit: 9692a624288bbb6e0e312109fdbbfa7e0cbb8557
+Merge: 34c1d61 427bbdf
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 16:47:01 2013 
+    Merge branch 'layout'
+
+Commit: 427bbdf94d2120e6cc1cc52acc335148431534ab
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 16:43:46 2013 
+    Started work on Actionbar
+
+Commit: 34c1d612358f8c5e806033266d1abde1edc19a9e
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Aug 20 15:40:48 2013 
+    updated git ignore
+
+Commit: b823732b2f296965446e0848ee2cdb97bf84f482
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 15:36:46 2013 
+    added empty .gitignore
+
+Commit: 9dca8c2453506d694082cff07e6a55f76061812a
+Merge: c6e59b4 84fafe1
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 15:30:42 2013 
+    Merge branch 'master' of https://bitbucket.org/hiveos/hive-notebooks
+
+Commit: 84fafe1ef1c79b928d59737a54afe7e5e074e779
+Merge: 7f26474 da9f209
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Aug 20 15:29:01 2013 
+    Merge branch 'master' of https://bitbucket.org/hiveos/hive-notebooks
+
+Commit: 7f26474dd65e0bf1cc4530dccbac1b16128bbbc1
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Aug 20 15:28:45 2013 
+    Fixed the merging of erased drawing and the realtime one
+
+Commit: c6e59b4403b7ae66bad70931f9be5bca7206d4c5
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 15:23:03 2013 
+    removed useless comment
+
+Commit: da9f209bd7636c2ae70ce52a2a892f0cd1fee8dc
+Merge: 1e90dce 09f7457
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Aug 20 15:12:17 2013 
+    Merged in Hambrle/readme-edited-online-with-bitbucket-1377004303201 (pull request #1)
+    
+    README edited online with Bitbucket
+
+Commit: 09f74577b3046538d7d60843b797b753ee8623f5
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Aug 20 13:11:49 2013 +0000
+    README edited online with Bitbucket
+
+Commit: 1e90dcefdf99e1c6ac7bb867b1adb53225e4eeee
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 15:10:17 2013 
+    modified the comment
+
+Commit: dc58f88b90f18fbbcbdbf0465ab5568532fe703f
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 15:06:54 2013 
+    added comment
+
+Commit: 91801a121e299a77b333315057fa0ee379a7dc12
+Merge: 64f7df7 ffa53d2
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 15:05:01 2013 
+    Merge branch 'master' of https://bitbucket.org/hiveos/hive-notebooks
+
+Commit: ffa53d21e3c7c0da59c0cd14919b2687849f41ba
+Author: Dzanan Ganic <dzanan_ganic@hotmail.com>
+Date:   Tue Aug 20 14:56:45 2013 
+    initial commit
+
+Commit: 64f7df7dbb66474ee92fa5f7756dd4d48b29d2f9
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Aug 20 14:35:52 2013 
+    Added README

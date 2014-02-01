@@ -1,0 +1,59 @@
+Commit: 668ce8c396f7361cb55aba9dd7bb1cec9b5c3f5a
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sun Jan 12 08:48:01 2014 +0100
+    Fixed animations bug
+
+Commit: 282c57188c8078cfda18fa44b732328ba8eda735
+Author: Ihsan Isik <Hikari@Metins-MacBook-Pro.local>
+Date:   Sat Jan 11 17:08:11 2014 +0100
+    Login UI
+
+Commit: dcae787a9a93193b79d63d75dffae053a1e8b77e
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sun Jan 12 02:37:35 2014 +0100
+    Done with the NFC thing
+
+Commit: 287a8a72ded96c7685e2ea068cf1ab7c1ee4d75e
+Author: Ihsan Isik <Hikari@Metins-MacBook-Pro.local>
+Date:   Fri Jan 10 21:58:27 2014 +0100
+    Tablet layout optimizations
+
+Commit: 39d93d15fa9df52cd47091e2f1cd7ae6f7e371b7
+Author: Džanan <Hambrle@Dzanans-MacBook-Pro.local>
+Date:   Sat Jan 11 07:32:47 2014 +0100
+    Added animations
+
+Commit: 48909328bdc455a4f62ba806192a60b051b8f944
+Author: Ihsan Isik <Hikari@Metins-MacBook-Pro.local>
+Date:   Fri Jan 10 17:56:14 2014 +0100
+    Welcome screen in works now...
+
+Commit: a4dc358f17f2c0ce5bebf67b54294d556aba22a2
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 9 16:47:15 2014 +0100
+    Table adjustements
+
+Commit: 2ec380b1d509cec09fd1d3a582c815fd56948d49
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 9 14:13:23 2014 +0100
+    Disable tablet UI progress for now
+
+Commit: 3182fb80fc8afb2cdfd7019c2b69284d3fa7af00
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Thu Jan 9 10:49:24 2014 +0100
+    Fixes, adjustements and initial tablet support
+
+Commit: c0470357ea0cda40430f911acad911e1b90ff3db
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 8 23:25:56 2014 +0100
+    Put back onBackPressed method which had somehow vanished
+
+Commit: beb0297c95918581bbbf682d3baa110332c147f8
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Wed Jan 8 23:10:01 2014 +0100
+    A lot of changes
+
+Commit: 14b2e87f4c0b94c6f2f7937b7414c5e338688f35
+Author: Ihsan Isik <x.ihsan@gmail.com>
+Date:   Tue Jan 7 09:28:45 2014 +0100
+    Initial commit
